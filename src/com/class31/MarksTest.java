@@ -6,7 +6,7 @@ public class MarksTest {
 		Marks obj = new A(25, 50, 44);
 		obj.getPercetatge();
 		A obj1 = new B(50, 50, 50, 50);
-		obj1.getPercetatge();
+		 obj1.getPercetatge();
 	}
 
 }
