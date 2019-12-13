@@ -17,6 +17,7 @@ public class LinkedListDemo {
 		// update/replace
 		llist.set(2, "Hi");
 		System.out.println(llist);
+		//how to retrieve all values from linked list
 
 	}
 }
