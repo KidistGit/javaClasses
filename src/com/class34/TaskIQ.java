@@ -33,26 +33,26 @@ public class TaskIQ {
 		Set<String> set = new HashSet<>(aList);
 		set.addAll(aList);
 		System.out.println(set);
-		
+
 		set.clear();
 		System.out.println(aList);
 		aList.addAll(set);
 		System.out.println(aList);
 		////////////////////////////////////
-		//How can I remove just 1 values from the Set Collection
-		
-		Set<String>lset=new LinkedHashSet<>();//keep the order
+		// How can I remove just 1 values from the Set Collection
+
+		Set<String> lset = new LinkedHashSet<>();// keep the order
 		lset.add("Morning");
 		lset.add("Noon");
 		lset.add("Evenining");
 		lset.add("Night");
 		// Converts to the ArrayList
-		List<String>myList=new ArrayList<>();
+		List<String> myList = new ArrayList<>();
 		myList.addAll(lset);
-		String element=myList.get(2);
+		String element = myList.get(2);
 		System.out.println(element);
-		
-		
-		
+		//Another way to create ean object of ArrayListby passing values to the constructor
+		List<String>myList1= new ArrayList<>(lset);
+
 	}
 }

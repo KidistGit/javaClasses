@@ -6,9 +6,9 @@ public class TaskTest {
 
 	public static void main(String[] args) {
 		Task obj=new Task();
-//		Task obj1=new Task(4);
-//		Task obj2=new Task(4, 5);
-//		Task obj3=new Task("Some string");
+//		TaskCountries obj1=new TaskCountries(4);
+//		TaskCountries obj2=new TaskCountries(4, 5);
+//		TaskCountries obj3=new TaskCountries("Some string");
 
 	}
 

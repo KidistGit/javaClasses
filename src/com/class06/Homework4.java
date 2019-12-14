@@ -27,7 +27,7 @@ if(d1>=30 || d1<30) {
 	
 //TASK 2 find the largest number using nested if
 //		Scanner scan=new Scanner(System.in);
-//		System.out.println("Please enter 3 distinct numbers for Nested If Task");
+//		System.out.println("Please enter 3 distinct numbers for Nested If TaskCountries");
 //​
 //		double no1 = scan.nextDouble();
 //		double no2 = scan.nextDouble();

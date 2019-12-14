@@ -22,7 +22,7 @@ public class twodimentionalarrays {
 		array [2][2]=70;
 		array[2][3]=80;
 		System.out.println(array[1][3]);
-		// Task; Create 2d array of string with 2 and 3 columns.
+		// TaskCountries; Create 2d array of string with 2 and 3 columns.
 	String [] [] names=new String[2][3];
 	
 	names [1][0]="Aster";
