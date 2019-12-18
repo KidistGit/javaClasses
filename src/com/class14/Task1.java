@@ -16,7 +16,7 @@ public class Task1 {
       String []array2=str1.split(" ",3);
 		System.out.println(array2.length);
 		
-		       //Task3
+		       //Task1
 		//You have a String a="Is it Saturday? Is it raining? 
 		//Do we have a Java Class today?" 
 		//How would you find out how many sentences are in that String?

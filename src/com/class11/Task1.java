@@ -15,7 +15,7 @@ public class Task1 {
 		for (int j=0; j<numbers.length;j++) {
 			sum=sum+numbers[j];
 		}
-		//Task3
+		//Task1
 		String[] countries = { "USA", "Ethiopia", "Chana", "Sudan" };
 		for (String getCountry: countries) {
 			if (getCountry.equals("USA")) {
